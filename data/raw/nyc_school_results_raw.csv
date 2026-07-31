@@ -1,0 +1,381 @@
+school_id,school_name,borough,year,enrolment,math_score,reading_score,writing_score,attendance_rate_pct,economically_disadvantaged_pct,student_teacher_ratio,graduation_rate_pct
+SCH-001,Bronx Academy 01,Bronx,2021,881,389.0,487.2,432.2,78.7,88.2,18.7,69.3
+SCH-001,Bronx Academy 01,Bronx,2022,1077,492.9,462.0,433.2,82.5,88.2,18.7,68.9
+SCH-001,Bronx Academy 01,Bronx,2023,887,439.7,438.1,500.2,87.9,88.2,18.7,70.8
+SCH-001,Bronx Academy 01,Bronx,2024,724,499.6,522.3,471.2,83.7,88.2,18.7,69.4
+SCH-001,Bronx Academy 01,Bronx,2025,622,439.7,519.5,464.1,81.9,88.2,18.7,72.6
+SCH-002,Bronx Academy 02,Bronx,2021,349,500.2,423.2,458.3,87.2,86.7,20.9,62.5
+SCH-002,Bronx Academy 02,Bronx,2022,1263,444.7,506.2,569.1,88.8,86.7,20.9,63.7
+SCH-002,Bronx Academy 02,Bronx,2023,878,576.9,409.7,466.3,87.1,86.7,20.9,65.0
+SCH-002,Bronx Academy 02,Bronx,2024,613,501.9,401.9,502.3,86.9,86.7,20.9,70.9
+SCH-002,Bronx Academy 02,Bronx,2025,1238,412.9,437.0,487.7,82.7,86.7,20.9,73.5
+SCH-003,Bronx Academy 03,Bronx,2021,895,473.7,483.0,423.6,85.9,71.7,15.8,66.3
+SCH-003,Bronx Academy 03,Bronx,2022,621,396.6,452.3,424.4,80.4,71.7,15.8,72.5
+SCH-003,Bronx Academy 03,Bronx,2023,470,,499.1,381.8,86.1,71.7,15.8,67.1
+SCH-003,Bronx Academy 03,Bronx,2024,375,570.0,535.8,456.2,88.2,71.7,15.8,67.5
+SCH-003,Bronx Academy 03,Bronx,2025,689,484.2,469.9,541.4,87.4,71.7,15.8,71.0
+SCH-004,Bronx Academy 04,Bronx,2021,1026,498.1,402.3,505.8,83.6,66.3,14.2,67.7
+SCH-004,Bronx Academy 04,Bronx,2022,348,515.5,454.0,532.6,85.0,66.3,14.2,69.9
+SCH-004,Bronx Academy 04,Bronx,2023,1243,491.4,533.2,494.9,81.4,66.3,14.2,67.2
+SCH-004,Bronx Academy 04,Bronx,2024,1121,463.9,556.1,487.5,87.5,66.3,14.2,77.1
+SCH-004,Bronx Academy 04,Bronx,2025,434,437.3,442.0,511.4,85.7,66.3,14.2,68.5
+SCH-005,Bronx Academy 05,Bronx,2021,821,460.4,460.6,482.6,unknown,76.9,18.0,69.0
+SCH-005,Bronx Academy 05,Bronx,2022,831,385.5,444.0,389.2,85.8,76.9,18.0,69.0
+SCH-005,Bronx Academy 05,Bronx,2023,1266,355.5,416.6,475.2,87.4,76.9,18.0,66.7
+SCH-005,Bronx Academy 05,Bronx,2024,375,436.7,505.7,444.2,83.7,76.9,18.0,64.9
+SCH-005,Bronx Academy 05,Bronx,2025,576,442.0,453.4,506.6,90.2,76.9,18.0,62.0
+SCH-006,Bronx Academy 06,Bronx,2021,1124,484.3,485.1,439.9,84.8,83.9,19.1,64.5
+SCH-006,Bronx Academy 06,Bronx,2022,910,397.3,426.3,445.1,86.8,83.9,19.1,64.5
+SCH-006,Bronx Academy 06,Bronx,2023,943,441.7,459.4,446.1,85.2,83.9,19.1,70.8
+SCH-006,Bronx Academy 06,Bronx,2024,605,469.5,460.4,381.7,84.9,83.9,19.1,66.5
+SCH-006,Bronx Academy 06,Bronx,2025,983,420.4,471.3,512.5,88.3,83.9,19.1,68.7
+SCH-007,Bronx Academy 07,Bronx,2021,1028,464.7,431.7,460.3,82.7,54.4,18.5,78.6
+SCH-007,Bronx Academy 07,Bronx,2022,955,,450.6,525.3,88.6,54.4,18.5,66.6
+SCH-007,Bronx Academy 07,Bronx,2023,426,514.4,500.3,442.1,86.6,54.4,18.5,63.7
+SCH-007,Bronx Academy 07,Bronx,2024,338,553.7,415.6,594.9,90.0,54.4,18.5,72.4
+SCH-007,Bronx Academy 07,Bronx,2025,1098,524.0,487.3,462.7,90.9,54.4,18.5,75.5
+SCH-008,Bronx Academy 08,Bronx,2021,669,511.3,440.1,514.9,85.0,83.7,18.3,68.1
+SCH-008,Bronx Academy 08,Bronx,2022,955,454.9,472.9,443.0,82.4,83.7,18.3,67.9
+SCH-008,Bronx Academy 08,Bronx,2023,1298,,466.3,389.8,84.9,83.7,18.3,63.0
+SCH-008,Bronx Academy 08,Bronx,2024,454,433.3,533.5,410.9,88.2,83.7,18.3,72.5
+SCH-008,Bronx Academy 08,Bronx,2025,1159,489.0,513.3,481.9,88.6,83.7,18.3,66.0
+SCH-009,Bronx Academy 09,Bronx,2021,500,426.4,556.3,457.9,82.7,69.1,19.7,70.2
+SCH-009,Bronx Academy 09,Bronx,2022,586,424.5,463.9,417.3,89.4,69.1,19.7,68.3
+SCH-009,Bronx Academy 09,Bronx,2023,344,421.6,451.8,443.3,82.9,69.1,19.7,69.2
+SCH-009,Bronx Academy 09,Bronx,2024,1114,,434.5,452.1,86.5,69.1,19.7,73.2
+SCH-009,Bronx Academy 09,Bronx,2025,602,409.5,436.2,517.3,86.1,69.1,19.7,75.5
+SCH-010,Bronx Academy 10,Bronx,2021,957,510.4,442.3,437.6,unknown,85.0,18.5,67.3
+SCH-010,Bronx Academy 10,Bronx,2022,434,506.4,409.3,487.2,83.5,85.0,18.5,65.3
+SCH-010,Bronx Academy 10,Bronx,2023,328,463.5,594.8,489.5,85.3,85.0,18.5,71.0
+SCH-010,Bronx Academy 10,Bronx,2024,311,424.4,479.4,496.2,unknown,85.0,18.5,65.2
+SCH-010,Bronx Academy 10,Bronx,2025,1044,485.5,465.1,466.0,83.8,85.0,18.5,64.6
+SCH-011,Bronx Academy 11,Bronx,2021,1279,437.8,466.4,441.2,86.6,73.0,16.4,73.5
+SCH-011,Bronx Academy 11,Bronx,2022,1211,517.9,546.9,461.8,84.3,73.0,16.4,68.3
+SCH-011,Bronx Academy 11,Bronx,2023,691,443.3,501.5,455.1,87.3,73.0,16.4,72.3
+SCH-011,Bronx Academy 11,Bronx,2024,551,438.3,491.3,403.4,86.3,73.0,16.4,72.3
+SCH-011,Bronx Academy 11,bronx,2025,463,466.9,519.3,460.9,83.9,73.0,16.4,69.1
+SCH-012,Bronx Academy 12,Bronx,2021,972,459.6,528.0,448.1,87.8,74.1,18.1,68.3
+SCH-012,Bronx Academy 12,Bronx,2022,726,418.4,425.0,494.4,85.1,74.1,18.1,69.7
+SCH-012,Bronx Academy 12,Bronx,2023,781,447.7,483.2,459.1,84.4,74.1,18.1,65.6
+SCH-012,Bronx Academy 12,Bronx,2024,984,461.1,516.2,414.0,87.4,74.1,18.1,68.7
+SCH-012,Bronx Academy 12,Bronx,2025,366,452.8,489.1,538.8,87.4,74.1,18.1,74.0
+SCH-013,Bronx Academy 13,Bronx,2021,916,485.4,446.1,498.2,85.8,70.8,17.1,65.3
+SCH-013,Bronx Academy 13,Bronx,2022,613,421.3,377.9,509.0,85.1,70.8,17.1,71.3
+SCH-013,Bronx Academy 13,Bronx,2023,816,474.0,503.3,448.7,84.9,70.8,17.1,65.2
+SCH-013,Bronx Academy 13,Bronx,2024,1156,394.6,423.8,509.0,unknown,70.8,17.1,73.2
+SCH-013,Bronx Academy 13,Bronx,2025,431,420.5,475.3,487.7,83.9,70.8,17.1,68.9
+SCH-014,Bronx Academy 14,Bronx,2021,631,478.2,525.3,452.8,86.5,67.7,19.5,74.9
+SCH-014,Bronx Academy 14,Bronx,2022,1053,407.0,549.6,540.5,92.0,67.7,19.5,73.4
+SCH-014,Bronx Academy 14,Bronx,2023,886,462.0,399.0,542.8,85.3,67.7,19.5,62.4
+SCH-014,Bronx Academy 14,Bronx,2024,1156,466.9,471.9,501.7,89.0,67.7,19.5,71.0
+SCH-014,Bronx Academy 14,Bronx,2025,1076,471.1,536.4,490.0,86.3,67.7,19.5,66.2
+SCH-015,Bronx Academy 15,Bronx,2021,887,384.9,468.2,465.0,86.5,74.4,17.8,67.1
+SCH-015,Bronx Academy 15,Bronx,2022,337,421.3,502.6,471.5,87.2,74.4,17.8,76.3
+SCH-015,Bronx Academy 15,Bronx,2023,634,447.3,490.2,463.3,86.2,74.4,17.8,69.6
+SCH-015,Bronx Academy 15,Bronx,2024,931,410.1,455.8,426.0,90.3,74.4,17.8,71.6
+SCH-015,Bronx Academy 15,Bronx,2025,1154,489.5,494.5,410.8,88.9,74.4,17.8,65.1
+SCH-016,Brooklyn Academy 01,Brooklyn,2021,688,533.7,484.2,532.9,85.6,51.7,17.3,77.3
+SCH-016,Brooklyn Academy 01,Brooklyn,2022,322,480.3,531.1,562.9,84.7,51.7,17.3,67.5
+SCH-016,Brooklyn Academy 01,Brooklyn,2023,839,414.7,589.2,487.6,86.9,51.7,17.3,72.8
+SCH-016,Brooklyn Academy 01,brooklyn,2024,369,488.9,562.2,556.4,89.2,51.7,17.3,75.6
+SCH-016,Brooklyn Academy 01,Brooklyn,2025,511,514.4,514.9,516.5,86.1,51.7,17.3,73.8
+SCH-017,Brooklyn Academy 02,Brooklyn,2021,509,501.6,509.3,465.3,83.3,74.0,16.8,68.8
+SCH-017,Brooklyn Academy 02,Brooklyn,2022,289,520.0,499.6,475.3,83.6,74.0,16.8,66.6
+SCH-017,Brooklyn Academy 02,Brooklyn,2023,1105,477.6,532.9,544.3,85.5,74.0,16.8,75.7
+SCH-017,Brooklyn Academy 02,Brooklyn,2024,486,504.2,526.9,519.8,79.0,74.0,16.8,72.4
+SCH-017,Brooklyn Academy 02,Brooklyn,2025,1263,524.9,461.0,452.8,89.1,74.0,16.8,75.4
+SCH-018,Brooklyn Academy 03,Brooklyn,2021,1154,424.7,543.4,521.7,85.4,62.6,15.7,67.4
+SCH-018,Brooklyn Academy 03,Brooklyn,2022,332,498.1,503.3,538.5,85.0,62.6,15.7,65.2
+SCH-018,Brooklyn Academy 03,Brooklyn,2023,1131,512.1,545.2,526.8,89.3,62.6,15.7,70.8
+SCH-018,Brooklyn Academy 03,Brooklyn,2024,1254,514.6,631.6,539.1,90.6,62.6,15.7,75.9
+SCH-018,Brooklyn Academy 03,Brooklyn,2025,595,466.1,576.4,581.8,88.2,62.6,15.7,70.2
+SCH-019,Brooklyn Academy 04,Brooklyn,2021,282,531.6,481.8,504.0,85.6,64.2,18.7,69.2
+SCH-019,Brooklyn Academy 04,Brooklyn,2022,674,595.9,517.9,481.0,89.1,64.2,18.7,69.9
+SCH-019,Brooklyn Academy 04,Brooklyn,2023,1058,517.4,578.8,550.2,85.6,64.2,18.7,70.9
+SCH-019,Brooklyn Academy 04,Brooklyn,2024,980,565.6,546.7,479.9,88.8,64.2,18.7,71.9
+SCH-019,Brooklyn Academy 04,Brooklyn,2025,1131,512.5,526.7,537.5,86.1,64.2,18.7,69.5
+SCH-020,Brooklyn Academy 05,Brooklyn,2021,326,581.3,491.0,474.5,84.6,66.0,16.2,62.7
+SCH-020,Brooklyn Academy 05,Brooklyn,2022,331,447.2,536.4,545.3,85.2,66.0,16.2,68.0
+SCH-020,Brooklyn Academy 05,Brooklyn,2023,282,484.8,539.2,515.8,86.4,66.0,16.2,71.8
+SCH-020,Brooklyn Academy 05,Brooklyn,2024,611,493.5,570.5,585.7,88.4,66.0,16.2,76.1
+SCH-020,Brooklyn Academy 05,Brooklyn,2025,336,538.3,593.2,464.0,90.3,66.0,16.2,71.4
+SCH-021,Brooklyn Academy 06,Brooklyn,2021,421,496.2,570.8,513.0,88.9,63.5,16.0,68.2
+SCH-021,Brooklyn Academy 06,Brooklyn,2022,870,494.4,564.2,507.2,88.3,63.5,16.0,69.2
+SCH-021,Brooklyn Academy 06,Brooklyn,2023,355,562.0,538.9,603.2,88.3,63.5,16.0,73.3
+SCH-021,Brooklyn Academy 06,Brooklyn,2024,502,564.6,524.8,580.7,88.5,63.5,16.0,75.5
+SCH-021,Brooklyn Academy 06,Brooklyn,2025,1115,566.8,557.0,494.1,85.2,63.5,16.0,70.9
+SCH-022,Brooklyn Academy 07,Brooklyn,2021,836,522.5,476.7,501.0,83.4,59.8,16.6,65.7
+SCH-022,Brooklyn Academy 07,Brooklyn,2022,311,546.5,542.1,508.1,85.8,59.8,16.6,69.6
+SCH-022,Brooklyn Academy 07,Brooklyn,2023,602,577.7,586.0,489.0,88.9,59.8,16.6,73.1
+SCH-022,Brooklyn Academy 07,Brooklyn,2024,977,563.2,563.3,547.0,93.0,59.8,16.6,74.9
+SCH-022,Brooklyn Academy 07,Brooklyn,2025,910,578.9,541.2,499.1,86.8,59.8,16.6,72.1
+SCH-023,Brooklyn Academy 08,Brooklyn,2021,839,589.2,575.2,543.0,86.7,49.0,18.4,66.4
+SCH-023,Brooklyn Academy 08,Brooklyn,2022,618,513.8,577.5,571.5,87.3,49.0,18.4,71.3
+SCH-023,Brooklyn Academy 08,Brooklyn,2023,1283,526.1,546.0,539.5,89.3,49.0,18.4,68.2
+SCH-023,Brooklyn Academy 08,Brooklyn,2024,1193,588.8,516.9,545.3,88.9,49.0,18.4,72.2
+SCH-023,Brooklyn Academy 08,Brooklyn,2025,536,552.2,568.2,461.9,90.8,49.0,18.4,71.9
+SCH-024,Brooklyn Academy 09,Brooklyn,2021,1213,524.8,563.7,526.5,92.7,45.1,12.3,75.3
+SCH-024,Brooklyn Academy 09,Brooklyn,2022,930,515.7,511.8,577.7,85.6,45.1,12.3,68.6
+SCH-024,Brooklyn Academy 09,brooklyn,2023,810,538.2,613.0,489.4,89.4,45.1,12.3,68.6
+SCH-024,Brooklyn Academy 09,Brooklyn,2024,287,570.6,544.5,538.1,88.2,45.1,12.3,73.3
+SCH-024,Brooklyn Academy 09,Brooklyn,2025,663,571.0,533.3,530.1,91.6,45.1,12.3,78.8
+SCH-025,Brooklyn Academy 10,Brooklyn,2021,715,418.0,548.1,549.7,82.9,52.7,16.6,71.2
+SCH-025,Brooklyn Academy 10,Brooklyn,2022,1220,603.7,525.5,519.1,88.6,52.7,16.6,75.9
+SCH-025,Brooklyn Academy 10,Brooklyn,2023,928,508.7,483.7,475.0,92.5,52.7,16.6,71.4
+SCH-025,Brooklyn Academy 10,Brooklyn,2024,959,516.7,610.6,548.0,90.0,52.7,16.6,73.9
+SCH-025,Brooklyn Academy 10,Brooklyn,2025,1049,514.5,629.2,516.1,87.5,52.7,16.6,73.2
+SCH-026,Brooklyn Academy 11,Brooklyn,2021,1226,594.3,420.8,445.0,85.8,68.6,19.7,69.6
+SCH-026,Brooklyn Academy 11,Brooklyn,2022,619,553.4,544.2,605.5,84.5,68.6,19.7,67.8
+SCH-026,Brooklyn Academy 11,Brooklyn,2023,1267,587.5,534.3,539.1,89.2,68.6,19.7,69.5
+SCH-026,Brooklyn Academy 11,Brooklyn,2024,356,531.8,611.9,575.9,87.1,68.6,19.7,69.0
+SCH-026,Brooklyn Academy 11,Brooklyn,2025,1027,470.6,530.7,569.7,91.0,68.6,19.7,69.9
+SCH-027,Brooklyn Academy 12,Brooklyn,2021,1041,574.8,568.9,531.6,88.3,41.1,14.9,71.5
+SCH-027,Brooklyn Academy 12,Brooklyn,2022,406,580.9,465.7,533.2,87.7,41.1,14.9,67.9
+SCH-027,Brooklyn Academy 12,Brooklyn,2023,1202,529.3,528.8,590.4,91.9,41.1,14.9,81.7
+SCH-027,Brooklyn Academy 12,Brooklyn,2024,627,594.4,596.8,538.6,88.1,41.1,14.9,75.2
+SCH-027,Brooklyn Academy 12,Brooklyn,2025,349,530.9,489.6,469.3,90.6,41.1,14.9,74.9
+SCH-028,Brooklyn Academy 13,Brooklyn,2021,556,527.2,584.5,545.7,85.7,63.4,18.9,77.5
+SCH-028,Brooklyn Academy 13,Brooklyn,2022,1262,,534.3,483.6,85.0,63.4,18.9,71.3
+SCH-028,Brooklyn Academy 13,brooklyn,2023,1056,,537.5,566.3,88.2,63.4,18.9,71.6
+SCH-028,Brooklyn Academy 13,Brooklyn,2024,905,543.4,561.8,536.0,90.1,63.4,18.9,76.2
+SCH-028,Brooklyn Academy 13,Brooklyn,2025,567,,563.7,513.6,89.4,63.4,18.9,76.2
+SCH-029,Brooklyn Academy 14,Brooklyn,2021,317,510.4,512.5,470.5,86.7,42.3,15.2,74.1
+SCH-029,Brooklyn Academy 14,Brooklyn,2022,353,579.9,514.0,490.3,83.4,42.3,15.2,69.6
+SCH-029,Brooklyn Academy 14,Brooklyn,2023,530,514.7,550.7,536.5,88.8,42.3,15.2,73.5
+SCH-029,Brooklyn Academy 14,Brooklyn,2024,1111,510.2,614.4,528.5,92.0,42.3,15.2,71.7
+SCH-029,Brooklyn Academy 14,Brooklyn,2025,1027,542.1,524.6,570.4,89.7,42.3,15.2,77.0
+SCH-030,Brooklyn Academy 15,Brooklyn,2021,1024,507.0,446.1,548.6,92.9,64.2,15.0,73.3
+SCH-030,Brooklyn Academy 15,Brooklyn,2022,1213,554.9,528.3,494.2,82.4,64.2,15.0,63.6
+SCH-030,Brooklyn Academy 15,Brooklyn,2023,1236,530.1,541.4,578.8,89.5,64.2,15.0,63.5
+SCH-030,Brooklyn Academy 15,Brooklyn,2024,1249,531.2,597.8,546.5,85.5,64.2,15.0,68.4
+SCH-030,Brooklyn Academy 15,Brooklyn,2025,1014,445.0,597.5,519.5,88.7,64.2,15.0,71.6
+SCH-031,Manhattan Academy 01,Manhattan,2021,1204,504.4,580.3,598.7,88.6,53.6,16.0,70.0
+SCH-031,Manhattan Academy 01,Manhattan,2022,970,582.3,607.9,560.2,86.7,53.6,16.0,72.7
+SCH-031,Manhattan Academy 01,Manhattan,2023,1297,521.2,598.2,521.4,85.0,53.6,16.0,72.5
+SCH-031,Manhattan Academy 01,Manhattan,2024,384,,572.2,627.5,86.4,53.6,16.0,72.8
+SCH-031,Manhattan Academy 01,Manhattan,2025,638,587.6,604.5,544.0,88.5,53.6,16.0,73.3
+SCH-032,Manhattan Academy 02,Manhattan,2021,915,531.9,552.3,584.0,87.1,65.2,19.6,68.6
+SCH-032,Manhattan Academy 02,Manhattan,2022,1135,527.7,602.5,557.2,88.9,65.2,19.6,71.4
+SCH-032,Manhattan Academy 02,Manhattan,2023,724,632.2,527.3,496.7,84.7,65.2,19.6,68.4
+SCH-032,Manhattan Academy 02,Manhattan,2024,1156,565.6,546.5,581.6,87.9,65.2,19.6,66.5
+SCH-032,Manhattan Academy 02,Manhattan,2025,305,577.9,522.9,545.0,88.3,65.2,19.6,77.2
+SCH-033,Manhattan Academy 03,Manhattan,2021,381,574.9,535.5,563.9,88.6,47.4,13.0,69.7
+SCH-033,Manhattan Academy 03,Manhattan,2022,617,521.2,638.1,656.8,89.2,47.4,13.0,72.7
+SCH-033,Manhattan Academy 03,Manhattan,2023,463,606.8,644.2,620.4,84.8,47.4,13.0,69.2
+SCH-033,Manhattan Academy 03,Manhattan,2024,994,597.7,582.7,568.6,89.3,47.4,13.0,71.1
+SCH-033,Manhattan Academy 03,Manhattan,2025,1165,573.3,627.7,604.1,88.7,47.4,13.0,71.5
+SCH-034,Manhattan Academy 04,Manhattan,2021,987,607.2,567.2,648.8,86.0,51.3,16.8,75.3
+SCH-034,Manhattan Academy 04,Manhattan,2022,737,590.4,651.4,653.3,88.3,51.3,16.8,75.7
+SCH-034,Manhattan Academy 04,Manhattan,2023,608,508.6,499.8,536.2,88.4,51.3,16.8,70.5
+SCH-034,Manhattan Academy 04,Manhattan,2024,709,580.4,544.4,534.1,90.3,51.3,16.8,71.5
+SCH-034,Manhattan Academy 04,Manhattan,2025,1136,605.1,557.1,628.2,89.8,51.3,16.8,69.4
+SCH-035,Manhattan Academy 05,Manhattan,2021,781,628.0,625.2,510.2,85.3,37.2,14.2,73.7
+SCH-035,Manhattan Academy 05,Manhattan,2022,1078,536.8,621.5,538.5,91.7,37.2,14.2,74.4
+SCH-035,Manhattan Academy 05,Manhattan,2023,1283,549.4,541.2,578.7,89.3,37.2,14.2,65.7
+SCH-035,Manhattan Academy 05,Manhattan,2024,1220,646.6,595.0,640.0,89.2,37.2,14.2,77.4
+SCH-035,Manhattan Academy 05,Manhattan,2025,472,483.3,678.2,575.7,88.5,37.2,14.2,68.2
+SCH-036,Manhattan Academy 06,Manhattan,2021,423,493.6,564.2,526.0,84.6,32.3,19.3,69.7
+SCH-036,Manhattan Academy 06,manhattan,2022,721,573.7,640.9,517.7,85.9,32.3,19.3,73.4
+SCH-036,Manhattan Academy 06,Manhattan,2023,819,599.1,688.4,653.6,89.6,32.3,19.3,77.3
+SCH-036,Manhattan Academy 06,Manhattan,2024,1156,684.6,655.2,578.3,85.5,32.3,19.3,67.8
+SCH-036,Manhattan Academy 06,Manhattan,2025,1070,581.8,598.1,587.4,87.3,32.3,19.3,70.8
+SCH-037,Manhattan Academy 07,Manhattan,2021,1220,538.7,568.6,612.3,88.4,33.0,17.3,74.2
+SCH-037,Manhattan Academy 07,Manhattan,2022,655,583.8,571.5,553.9,94.0,33.0,17.3,72.7
+SCH-037,Manhattan Academy 07,Manhattan,2023,1099,600.7,570.4,617.9,90.0,33.0,17.3,72.3
+SCH-037,Manhattan Academy 07,Manhattan,2024,280,605.5,680.2,638.4,93.6,33.0,17.3,77.6
+SCH-037,Manhattan Academy 07,Manhattan,2025,974,657.2,583.8,602.7,89.2,33.0,17.3,76.6
+SCH-038,Manhattan Academy 08,manhattan,2021,411,564.2,557.8,589.3,87.3,40.7,16.0,71.7
+SCH-038,Manhattan Academy 08,Manhattan,2022,491,,587.8,593.0,87.3,40.7,16.0,79.1
+SCH-038,Manhattan Academy 08,Manhattan,2023,850,623.9,583.3,612.0,unknown,40.7,16.0,72.6
+SCH-038,Manhattan Academy 08,Manhattan,2024,908,630.1,603.6,612.0,88.7,40.7,16.0,73.5
+SCH-038,Manhattan Academy 08,Manhattan,2025,388,,672.3,622.5,87.6,40.7,16.0,72.6
+SCH-039,Manhattan Academy 09,Manhattan,2021,1135,615.8,574.9,535.0,88.5,30.2,15.1,73.1
+SCH-039,Manhattan Academy 09,Manhattan,2022,495,506.8,652.5,577.7,94.3,30.2,15.1,79.2
+SCH-039,Manhattan Academy 09,Manhattan,2023,1214,579.4,556.8,538.6,92.1,30.2,15.1,74.6
+SCH-039,Manhattan Academy 09,Manhattan,2024,801,567.7,557.2,580.0,91.5,30.2,15.1,73.2
+SCH-039,Manhattan Academy 09,Manhattan,2025,842,542.3,669.9,706.3,90.4,30.2,15.1,78.1
+SCH-040,Manhattan Academy 10,Manhattan,2021,1086,536.4,499.4,605.0,88.4,65.2,14.7,69.6
+SCH-040,Manhattan Academy 10,Manhattan,2022,1150,600.5,638.8,547.4,86.7,65.2,14.7,73.9
+SCH-040,Manhattan Academy 10,Manhattan,2023,743,,563.4,588.9,88.6,65.2,14.7,67.3
+SCH-040,Manhattan Academy 10,Manhattan,2024,1198,521.5,576.2,582.2,90.6,65.2,14.7,68.8
+SCH-040,Manhattan Academy 10,Manhattan,2025,461,720.8,693.3,537.8,91.8,65.2,14.7,69.9
+SCH-041,Manhattan Academy 11,Manhattan,2021,1074,557.7,586.3,586.5,82.3,37.7,13.4,76.6
+SCH-041,Manhattan Academy 11,Manhattan,2022,844,495.7,561.0,656.0,88.8,37.7,13.4,70.8
+SCH-041,Manhattan Academy 11,Manhattan,2023,528,582.1,641.8,587.0,82.2,37.7,13.4,74.5
+SCH-041,Manhattan Academy 11,Manhattan,2024,1112,632.8,609.0,599.1,88.2,37.7,13.4,68.0
+SCH-041,Manhattan Academy 11,Manhattan,2025,494,565.6,589.9,553.8,91.9,37.7,13.4,81.5
+SCH-042,Manhattan Academy 12,Manhattan,2021,804,536.0,624.1,450.0,85.8,38.3,18.4,73.1
+SCH-042,Manhattan Academy 12,Manhattan,2022,307,541.0,564.8,582.1,84.3,38.3,18.4,73.5
+SCH-042,Manhattan Academy 12,Manhattan,2023,685,602.3,643.9,631.3,90.1,38.3,18.4,68.7
+SCH-042,Manhattan Academy 12,Manhattan,2024,599,583.9,518.9,624.1,89.4,38.3,18.4,68.7
+SCH-042,Manhattan Academy 12,Manhattan,2025,611,539.1,644.5,548.2,93.6,38.3,18.4,76.4
+SCH-043,Manhattan Academy 13,Manhattan,2021,916,614.2,679.3,538.1,90.2,58.0,15.9,68.2
+SCH-043,Manhattan Academy 13,Manhattan,2022,1025,547.4,566.3,587.5,87.1,58.0,15.9,65.5
+SCH-043,Manhattan Academy 13,Manhattan,2023,387,543.9,662.1,540.9,86.8,58.0,15.9,71.6
+SCH-043,Manhattan Academy 13,Manhattan,2024,585,535.8,586.5,583.5,87.0,58.0,15.9,70.2
+SCH-043,Manhattan Academy 13,Manhattan,2025,532,571.4,655.5,679.1,91.6,58.0,15.9,78.0
+SCH-044,Manhattan Academy 14,Manhattan,2021,1040,562.7,538.5,609.6,88.4,46.7,19.7,74.1
+SCH-044,Manhattan Academy 14,Manhattan,2022,604,583.4,501.1,578.2,90.4,46.7,19.7,71.1
+SCH-044,Manhattan Academy 14,Manhattan,2023,1127,579.5,564.0,625.3,89.5,46.7,19.7,75.5
+SCH-044,Manhattan Academy 14,Manhattan,2024,546,560.0,641.1,590.9,86.3,46.7,19.7,74.0
+SCH-044,Manhattan Academy 14,Manhattan,2025,735,653.4,587.4,567.2,86.4,46.7,19.7,70.8
+SCH-045,Manhattan Academy 15,Manhattan,2021,849,525.7,640.1,625.4,90.5,35.2,15.3,74.0
+SCH-045,Manhattan Academy 15,Manhattan,2022,1042,593.1,673.2,546.4,90.7,35.2,15.3,78.4
+SCH-045,Manhattan Academy 15,Manhattan,2023,735,585.8,610.2,576.9,92.2,35.2,15.3,73.0
+SCH-045,Manhattan Academy 15,Manhattan,2024,316,556.2,622.7,650.1,92.1,35.2,15.3,78.3
+SCH-045,Manhattan Academy 15,Manhattan,2025,838,654.4,604.7,605.7,90.0,35.2,15.3,72.1
+SCH-046,Queens Academy 01,Queens,2021,584,515.7,530.2,538.8,88.4,57.8,14.9,72.6
+SCH-046,Queens Academy 01,Queens,2022,777,547.9,613.9,582.0,89.8,57.8,14.9,72.2
+SCH-046,Queens Academy 01,Queens,2023,1122,521.5,528.4,565.3,89.2,57.8,14.9,74.7
+SCH-046,Queens Academy 01,Queens,2024,932,555.2,518.5,626.9,82.7,57.8,14.9,74.6
+SCH-046,Queens Academy 01,Queens,2025,579,641.8,536.1,591.0,92.7,57.8,14.9,73.5
+SCH-047,Queens Academy 02,Queens,2021,790,440.2,480.1,565.2,87.3,67.9,17.3,69.0
+SCH-047,Queens Academy 02,Queens,2022,1030,499.1,585.2,551.9,84.8,67.9,17.3,72.6
+SCH-047,Queens Academy 02,Queens,2023,723,509.5,542.7,495.6,86.6,67.9,17.3,62.6
+SCH-047,Queens Academy 02,Queens,2024,337,502.3,521.1,566.3,87.2,67.9,17.3,69.9
+SCH-047,Queens Academy 02,Queens,2025,339,492.8,554.1,580.2,87.7,67.9,17.3,67.1
+SCH-048,Queens Academy 03,Queens,2021,926,495.7,528.2,570.9,86.1,51.6,15.7,74.3
+SCH-048,Queens Academy 03,Queens,2022,574,508.1,499.5,607.7,84.8,51.6,15.7,73.7
+SCH-048,Queens Academy 03,Queens,2023,605,560.8,526.3,588.4,92.9,51.6,15.7,77.4
+SCH-048,Queens Academy 03,Queens,2024,681,539.7,560.7,572.2,91.7,51.6,15.7,73.7
+SCH-048,Queens Academy 03,Queens,2025,443,541.7,533.9,539.4,86.9,51.6,15.7,71.6
+SCH-049,Queens Academy 04,Queens,2021,378,489.0,455.4,516.2,88.7,52.3,14.9,75.7
+SCH-049,Queens Academy 04,Queens,2022,1131,483.9,577.4,564.0,87.9,52.3,14.9,77.2
+SCH-049,Queens Academy 04,Queens,2023,740,528.6,554.5,535.8,86.0,52.3,14.9,69.2
+SCH-049,Queens Academy 04,Queens,2024,1279,502.4,546.9,548.9,89.7,52.3,14.9,74.1
+SCH-049,Queens Academy 04,Queens,2025,961,597.8,527.4,562.2,unknown,52.3,14.9,69.1
+SCH-050,Queens Academy 05,Queens,2021,711,491.8,605.1,524.0,83.0,75.6,19.2,66.3
+SCH-050,Queens Academy 05,Queens,2022,1176,510.5,525.1,508.6,87.7,75.6,19.2,66.1
+SCH-050,Queens Academy 05,Queens,2023,791,,627.2,551.8,89.5,75.6,19.2,61.1
+SCH-050,Queens Academy 05,Queens,2024,606,500.2,499.8,548.7,87.6,75.6,19.2,74.5
+SCH-050,Queens Academy 05,Queens,2025,810,461.9,572.9,569.6,88.7,75.6,19.2,66.6
+SCH-051,Queens Academy 06,Queens,2021,1166,,555.3,498.6,88.0,53.9,17.3,73.8
+SCH-051,Queens Academy 06,Queens,2022,905,557.8,511.3,568.3,83.4,53.9,17.3,64.7
+SCH-051,Queens Academy 06,Queens,2023,1036,478.4,601.5,554.5,86.2,53.9,17.3,67.4
+SCH-051,Queens Academy 06,Queens,2024,306,528.1,584.6,496.9,90.9,53.9,17.3,74.7
+SCH-051,Queens Academy 06,Queens,2025,576,523.8,573.6,533.5,90.5,53.9,17.3,75.3
+SCH-052,Queens Academy 07,Queens,2021,901,414.8,618.5,595.4,88.2,46.2,15.0,71.4
+SCH-052,Queens Academy 07,Queens,2022,833,561.9,531.7,597.0,84.7,46.2,15.0,65.8
+SCH-052,Queens Academy 07,Queens,2023,732,513.8,589.9,566.3,87.8,46.2,15.0,71.1
+SCH-052,Queens Academy 07,Queens,2024,925,563.6,580.4,540.1,unknown,46.2,15.0,75.9
+SCH-052,Queens Academy 07,Queens,2025,332,519.9,549.7,573.7,91.5,46.2,15.0,71.4
+SCH-053,Queens Academy 08,Queens,2021,286,581.1,530.9,510.7,90.3,36.4,16.9,71.6
+SCH-053,Queens Academy 08,Queens,2022,585,565.2,554.1,600.8,85.6,36.4,16.9,70.8
+SCH-053,Queens Academy 08,Queens,2023,730,549.4,483.4,495.2,88.2,36.4,16.9,74.8
+SCH-053,Queens Academy 08,Queens,2024,627,541.0,601.9,593.8,90.3,36.4,16.9,72.8
+SCH-053,Queens Academy 08,Queens,2025,1067,636.1,599.2,529.5,87.1,36.4,16.9,79.5
+SCH-054,Queens Academy 09,Queens,2021,893,532.1,501.2,523.1,87.4,59.0,19.2,69.9
+SCH-054,Queens Academy 09,Queens,2022,797,539.2,491.7,557.2,89.6,59.0,19.2,70.0
+SCH-054,Queens Academy 09,Queens,2023,680,621.4,576.8,514.5,88.9,59.0,19.2,72.5
+SCH-054,Queens Academy 09,Queens,2024,1048,623.1,649.9,561.3,85.3,59.0,19.2,68.2
+SCH-054,Queens Academy 09,Queens,2025,1027,476.7,621.8,573.8,unknown,59.0,19.2,73.8
+SCH-055,Queens Academy 10,Queens,2021,1018,527.1,579.0,567.8,83.9,63.6,17.1,71.1
+SCH-055,Queens Academy 10,Queens,2022,544,553.4,624.6,530.7,85.8,63.6,17.1,74.1
+SCH-055,Queens Academy 10,Queens,2023,1235,486.1,600.7,610.2,87.3,63.6,17.1,72.1
+SCH-055,Queens Academy 10,Queens,2024,384,559.6,592.7,545.8,86.7,63.6,17.1,67.2
+SCH-055,Queens Academy 10,Queens,2025,851,585.7,528.1,522.5,89.5,63.6,17.1,66.5
+SCH-056,Queens Academy 11,Queens,2021,444,524.9,456.4,541.5,88.5,62.4,16.6,73.8
+SCH-056,Queens Academy 11,Queens,2022,804,542.7,573.0,474.9,83.9,62.4,16.6,70.0
+SCH-056,Queens Academy 11,Queens,2023,283,528.1,477.1,582.5,88.9,62.4,16.6,72.8
+SCH-056,Queens Academy 11,Queens,2024,736,551.6,504.1,529.2,84.0,62.4,16.6,73.1
+SCH-056,Queens Academy 11,Queens,2025,905,487.5,511.5,617.4,86.6,62.4,16.6,65.0
+SCH-057,Queens Academy 12,Queens,2021,522,466.2,565.9,594.8,82.3,69.4,14.2,66.4
+SCH-057,Queens Academy 12,Queens,2022,581,570.0,509.6,547.0,89.7,69.4,14.2,69.8
+SCH-057,Queens Academy 12,Queens,2023,620,524.0,552.3,469.2,88.9,69.4,14.2,70.3
+SCH-057,Queens Academy 12,Queens,2024,491,512.9,521.0,549.1,85.1,69.4,14.2,76.4
+SCH-057,Queens Academy 12,Queens,2025,797,,512.4,574.2,89.5,69.4,14.2,72.1
+SCH-058,Queens Academy 13,Queens,2021,315,492.9,526.9,577.7,84.4,50.2,16.2,70.0
+SCH-058,Queens Academy 13,Queens,2022,1059,459.0,475.1,618.9,93.5,50.2,16.2,78.8
+SCH-058,Queens Academy 13,Queens,2023,975,604.4,547.5,550.1,89.2,50.2,16.2,73.2
+SCH-058,Queens Academy 13,Queens,2024,422,537.9,612.0,578.5,89.4,50.2,16.2,75.3
+SCH-058,Queens Academy 13,Queens,2025,1291,585.8,530.5,539.5,83.2,50.2,16.2,75.4
+SCH-059,Queens Academy 14,Queens,2021,322,522.5,643.7,494.4,83.9,50.1,14.0,70.0
+SCH-059,Queens Academy 14,Queens,2022,1119,494.7,453.5,527.8,84.3,50.1,14.0,67.3
+SCH-059,Queens Academy 14,Queens,2023,309,532.8,617.1,527.7,86.7,50.1,14.0,73.0
+SCH-059,Queens Academy 14,Queens,2024,882,467.3,478.9,612.2,86.5,50.1,14.0,70.8
+SCH-059,Queens Academy 14,Queens,2025,1132,503.9,548.1,578.0,90.8,50.1,14.0,66.6
+SCH-060,Queens Academy 15,Queens,2021,357,593.8,603.9,550.1,87.5,56.8,12.7,70.5
+SCH-060,Queens Academy 15,Queens,2022,1065,531.4,600.3,469.8,82.1,56.8,12.7,66.3
+SCH-060,Queens Academy 15,Queens,2023,1036,477.1,555.6,559.0,87.5,56.8,12.7,67.3
+SCH-060,Queens Academy 15,Queens,2024,800,605.8,541.2,504.7,88.4,56.8,12.7,68.3
+SCH-060,Queens Academy 15,Queens,2025,501,511.9,480.3,608.2,89.3,56.8,12.7,72.7
+SCH-061,Staten Island Academy 01,Staten Island,2021,799,584.3,567.5,523.9,83.9,52.8,15.1,73.9
+SCH-061,Staten Island Academy 01,staten island,2022,391,548.8,613.0,666.9,92.3,52.8,15.1,76.0
+SCH-061,Staten Island Academy 01,Staten Island,2023,757,501.8,566.4,534.4,86.2,52.8,15.1,70.1
+SCH-061,Staten Island Academy 01,Staten Island,2024,748,516.9,550.7,596.7,94.6,52.8,15.1,77.7
+SCH-061,Staten Island Academy 01,Staten Island,2025,779,589.2,597.5,617.3,91.4,52.8,15.1,78.2
+SCH-062,Staten Island Academy 02,Staten Island,2021,473,500.3,498.2,580.0,87.7,40.9,16.4,73.1
+SCH-062,Staten Island Academy 02,Staten Island,2022,826,541.4,564.9,602.3,unknown,40.9,16.4,68.3
+SCH-062,Staten Island Academy 02,Staten Island,2023,540,605.3,517.4,508.5,86.6,40.9,16.4,71.6
+SCH-062,Staten Island Academy 02,Staten Island,2024,1148,546.6,643.3,610.4,unknown,40.9,16.4,77.9
+SCH-062,Staten Island Academy 02,Staten Island,2025,333,546.9,593.1,559.5,91.1,40.9,16.4,73.4
+SCH-063,Staten Island Academy 03,Staten Island,2021,1218,656.7,540.9,544.7,89.1,46.0,15.3,69.4
+SCH-063,Staten Island Academy 03,Staten Island,2022,679,513.0,560.5,552.5,87.6,46.0,15.3,71.6
+SCH-063,Staten Island Academy 03,Staten Island,2023,673,479.8,591.9,524.6,86.8,46.0,15.3,73.6
+SCH-063,Staten Island Academy 03,Staten Island,2024,784,577.0,549.6,688.5,90.6,46.0,15.3,74.3
+SCH-063,Staten Island Academy 03,Staten Island,2025,862,555.3,600.7,565.0,82.5,46.0,15.3,69.6
+SCH-064,Staten Island Academy 04,Staten Island,2021,824,575.5,471.8,554.5,89.7,37.8,17.2,74.5
+SCH-064,Staten Island Academy 04,Staten Island,2022,581,527.1,523.9,527.1,88.3,37.8,17.2,71.3
+SCH-064,Staten Island Academy 04,Staten Island,2023,1169,537.6,545.9,517.0,89.3,37.8,17.2,72.9
+SCH-064,Staten Island Academy 04,Staten Island,2024,489,529.8,586.8,567.7,92.1,37.8,17.2,72.8
+SCH-064,Staten Island Academy 04,Staten Island,2025,1070,617.9,551.8,551.2,90.3,37.8,17.2,74.1
+SCH-065,Staten Island Academy 05,Staten Island,2021,952,485.0,648.3,518.7,88.4,49.4,13.9,69.8
+SCH-065,Staten Island Academy 05,Staten Island,2022,313,500.5,516.7,539.1,92.4,49.4,13.9,71.6
+SCH-065,Staten Island Academy 05,Staten Island,2023,769,575.3,514.3,593.4,89.3,49.4,13.9,73.0
+SCH-065,Staten Island Academy 05,Staten Island,2024,851,552.5,608.5,572.8,89.9,49.4,13.9,75.5
+SCH-065,Staten Island Academy 05,Staten Island,2025,1050,551.7,495.3,543.2,90.0,49.4,13.9,73.1
+SCH-066,Staten Island Academy 06,Staten Island,2021,592,494.3,621.5,547.3,83.9,36.2,17.7,71.4
+SCH-066,Staten Island Academy 06,Staten Island,2022,1005,635.7,527.9,530.3,88.6,36.2,17.7,75.3
+SCH-066,Staten Island Academy 06,Staten Island,2023,313,437.5,468.8,519.8,86.7,36.2,17.7,73.8
+SCH-066,Staten Island Academy 06,Staten Island,2024,1176,556.3,592.8,609.9,89.9,36.2,17.7,72.3
+SCH-066,Staten Island Academy 06,Staten Island,2025,704,537.4,574.9,604.0,89.2,36.2,17.7,80.2
+SCH-067,Staten Island Academy 07,Staten Island,2021,752,578.0,571.1,535.8,89.7,37.7,17.9,78.0
+SCH-067,Staten Island Academy 07,Staten Island,2022,489,500.1,597.0,611.0,87.9,37.7,17.9,73.4
+SCH-067,Staten Island Academy 07,Staten Island,2023,757,574.6,602.1,559.5,89.4,37.7,17.9,75.2
+SCH-067,Staten Island Academy 07,Staten Island,2024,627,635.3,608.5,575.7,90.9,37.7,17.9,81.2
+SCH-067,Staten Island Academy 07,Staten Island,2025,416,555.5,516.1,538.6,87.7,37.7,17.9,72.1
+SCH-068,Staten Island Academy 08,Staten Island,2021,427,506.0,547.2,485.4,88.6,40.6,17.4,70.4
+SCH-068,Staten Island Academy 08,Staten Island,2022,1137,565.5,533.2,554.8,87.8,40.6,17.4,73.2
+SCH-068,Staten Island Academy 08,Staten Island,2023,742,602.2,580.6,564.7,87.4,40.6,17.4,67.8
+SCH-068,Staten Island Academy 08,Staten Island,2024,301,575.3,569.8,486.1,85.1,40.6,17.4,74.2
+SCH-068,Staten Island Academy 08,Staten Island,2025,1239,575.1,509.4,558.9,91.2,40.6,17.4,79.3
+SCH-069,Staten Island Academy 09,Staten Island,2021,299,527.2,564.5,569.6,86.4,34.8,13.3,67.1
+SCH-069,Staten Island Academy 09,Staten Island,2022,304,694.4,556.9,604.2,86.9,34.8,13.3,72.6
+SCH-069,Staten Island Academy 09,Staten Island,2023,1111,608.7,517.9,688.8,91.9,34.8,13.3,74.2
+SCH-069,Staten Island Academy 09,Staten Island,2024,803,542.3,642.9,624.7,91.1,34.8,13.3,79.5
+SCH-069,Staten Island Academy 09,Staten Island,2025,996,546.3,578.1,654.0,92.6,34.8,13.3,79.3
+SCH-070,Staten Island Academy 10,Staten Island,2021,1228,576.9,505.7,590.1,85.3,28.4,14.2,79.4
+SCH-070,Staten Island Academy 10,Staten Island,2022,866,532.2,607.9,561.2,90.5,28.4,14.2,70.1
+SCH-070,Staten Island Academy 10,Staten Island,2023,780,655.2,630.2,566.1,92.0,28.4,14.2,79.2
+SCH-070,Staten Island Academy 10,Staten Island,2024,1052,650.1,561.4,579.2,90.5,28.4,14.2,77.4
+SCH-070,Staten Island Academy 10,Staten Island,2025,341,594.6,654.8,601.4,91.5,28.4,14.2,84.6
+SCH-071,Staten Island Academy 11,staten island,2021,722,488.3,585.6,588.0,87.5,58.9,19.1,68.9
+SCH-071,Staten Island Academy 11,Staten Island,2022,1144,602.3,558.5,568.3,88.0,58.9,19.1,75.9
+SCH-071,Staten Island Academy 11,Staten Island,2023,863,510.8,534.8,541.2,90.7,58.9,19.1,78.3
+SCH-071,Staten Island Academy 11,Staten Island,2024,1274,611.5,517.6,587.8,84.5,58.9,19.1,74.6
+SCH-071,Staten Island Academy 11,Staten Island,2025,647,573.1,548.4,565.7,90.1,58.9,19.1,67.0
+SCH-072,Staten Island Academy 12,Staten Island,2021,811,480.3,602.6,516.7,83.1,58.1,15.5,71.7
+SCH-072,Staten Island Academy 12,Staten Island,2022,1094,532.8,549.9,553.1,86.7,58.1,15.5,65.1
+SCH-072,Staten Island Academy 12,Staten Island,2023,848,613.9,617.7,579.6,87.5,58.1,15.5,71.5
+SCH-072,Staten Island Academy 12,Staten Island,2024,1185,549.0,632.5,517.7,92.2,58.1,15.5,73.3
+SCH-072,Staten Island Academy 12,Staten Island,2025,483,503.4,583.0,570.3,87.4,58.1,15.5,71.4
+SCH-073,Staten Island Academy 13,Staten Island,2021,1176,485.2,591.0,520.6,86.9,55.1,16.1,77.7
+SCH-073,Staten Island Academy 13,Staten Island,2022,937,521.9,523.7,558.8,82.6,55.1,16.1,75.2
+SCH-073,Staten Island Academy 13,Staten Island,2023,1146,558.2,607.5,590.7,89.9,55.1,16.1,78.4
+SCH-073,Staten Island Academy 13,Staten Island,2024,517,547.3,579.8,560.3,90.7,55.1,16.1,74.4
+SCH-073,Staten Island Academy 13,Staten Island,2025,1119,595.9,585.9,546.1,86.1,55.1,16.1,71.2
+SCH-074,Staten Island Academy 14,Staten Island,2021,302,609.3,469.0,518.9,84.2,58.2,18.0,67.9
+SCH-074,Staten Island Academy 14,Staten Island,2022,494,558.3,548.4,571.1,84.5,58.2,18.0,75.7
+SCH-074,Staten Island Academy 14,Staten Island,2023,667,,548.0,540.8,85.5,58.2,18.0,69.8
+SCH-074,Staten Island Academy 14,Staten Island,2024,886,513.9,604.4,562.6,89.9,58.2,18.0,75.5
+SCH-074,Staten Island Academy 14,Staten Island,2025,1112,608.6,528.7,606.7,93.2,58.2,18.0,76.7
+SCH-075,Staten Island Academy 15,Staten Island,2021,616,551.7,560.7,546.8,87.8,37.7,14.5,75.2
+SCH-075,Staten Island Academy 15,Staten Island,2022,663,564.4,553.4,533.0,85.2,37.7,14.5,72.7
+SCH-075,Staten Island Academy 15,Staten Island,2023,1032,632.3,566.6,546.4,91.2,37.7,14.5,73.3
+SCH-075,Staten Island Academy 15,Staten Island,2024,1062,642.7,599.8,582.7,87.8,37.7,14.5,69.6
+SCH-075,Staten Island Academy 15,Staten Island,2025,997,537.8,591.4,629.0,87.5,37.7,14.5,69.2
+SCH-001,Bronx Academy 01,Bronx,2021,881,389.0,487.2,432.2,78.7,88.2,18.7,69.3
+SCH-001,Bronx Academy 01,Bronx,2022,1077,492.9,462.0,433.2,82.5,88.2,18.7,68.9
+SCH-001,Bronx Academy 01,Bronx,2023,887,439.7,438.1,500.2,87.9,88.2,18.7,70.8
+SCH-001,Bronx Academy 01,Bronx,2024,724,499.6,522.3,471.2,83.7,88.2,18.7,69.4
+SCH-001,Bronx Academy 01,Bronx,2025,622,439.7,519.5,464.1,81.9,88.2,18.7,72.6
